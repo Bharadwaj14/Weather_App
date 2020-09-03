@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="api_key">wciZsnOYoVG2m48zk8ARolykX7Tiwji0</string>
+    <string name="resMainEtCityName">City Name</string>
+    <string name="resMainEtCountry">Country</string>
+    <string name="resMainTvCityNotSet">Current city not set yet</string>
+    <string name="resMainBtnSetCurrentCity">Set Current City</string>
+    <string name="resMainBtnSearchCity">Search City</string>
+    <string name="resMainTvNoCityList1">There are no cities to display</string>
+    <string name="resMainTvNoCityList2">Search the city from the search box and save</string>
+    <string name="resMainTvSavedCitiesTitle">Saved Cities</string>
+    <string name="resMainTvTemp">"Temperature: "</string>
+    <string name="resMainTvUpdatedTime">"Updated: "</string>
+    <string name="resMainRecTvTemp">Temperature:</string>
+    <string name="resMainRecLastUpdated">"Updated: "</string>
+    <string name="resAlertEtCity">Enter City Name</string>
+    <string name="resAlertEtCountry">Enter Country</string>
+    <string name="resWeatherTvForecastDate">Forecast on</string>
+    <string name="resWeatherTvTemperature">Temperature</string>
+    <string name="resWeatherTvCondition">Condition</string>
+    <string name="resWeatherDayTitle">Day</string>
+    <string name="resWeatherNightTitle">Night</string>
+    <string name="resWeatherTvLink">Click here for more details</string>
+    <string name="resWeatherBtnSaveCity">Save City</string>
+    <string name="resWeatherBtnSetCurrentCity">Set as current</string>
+</resources>
